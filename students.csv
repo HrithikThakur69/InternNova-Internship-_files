@@ -1,0 +1,21 @@
+Student_id,Name,Branch,Marks,Attendance,City
+101,Aarav Sharma,CSE,88,92,Delhi
+102,Priya Verma,ECE,76,85,Mumbai
+103,Rohan Gupta,CSE,,78,Delhi
+104,Sneha Iyer,ME,65,90,Chennai
+105,Karan Mehta,ECE,91,,Mumbai
+106,Divya Nair,CSE,58,70,Bangalore
+107,Arjun Reddy,ME,73,88,Hyderabad
+108,Ananya Singh,ECE,84,95,Delhi
+109,Vikram Rao,CSE,,60,Bangalore
+110,Ishita Kapoor,ME,95,98,Chennai
+111,Rahul Joshi,CSE,69,82,Mumbai
+112,Meera Pillai,ECE,,91,Chennai
+113,Aditya Kumar,ME,80,87,Delhi
+114,Neha Bhatt,CSE,72,79,Bangalore
+115,Siddharth Rao,ECE,89,93,Hyderabad
+116,Anjali Desai,ME,,85,Mumbai
+117,Varun Malhotra,CSE,77,88,Delhi
+118,Shreya Nair,ECE,82,,Bangalore
+119,Rahul Sharma,ME,68,75,Chennai
+120,Simran Kaur,CSE,90,,Mumbai
